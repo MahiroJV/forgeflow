@@ -154,51 +154,43 @@ The first version of YAMLForge will support:
 
 ---
 
-# 🗺️ Roadmap
 
-## Phase 1
+# 🚀 Roadmap
 
-* Backend setup (Rust + Axum)
-* Frontend setup (Next.js)
-* Rust templates
-* Basic YAML generation
+## Phase 1 — Core Setup
+- Rust backend (Axum)
+- Next.js frontend
+- Basic API connection
 
-## Phase 2
+## Phase 2 — Generator Engine
+- Template system
+- YAML generator
+- First working CI pipeline
 
-* Live YAML preview
-* Download/export support
-* Better UI/UX
+## Phase 3 — UI Builder
+- Step-by-step wizard
+- Live preview
+- Better UX
 
-## Phase 3
+## Phase 4 — Multi-language Support
+- Node.js templates
+- Python templates
+- Java templates
 
-* Node.js templates
-* Python templates
-* Java templates
-
-## Phase 4
-
-* GitHub OAuth
-* Repository detection
-* Auto-generated workflow suggestions
-
-## Phase 5
-
-* GitHub App integration
-* AI-assisted pipeline generation
-* Cloud deployment integrations
+## Phase 5 — Advanced Features
+- GitHub OAuth
+- Repo import
+- Smart suggestions
+- Export ZIP
 
 ---
 
 # 💡 Future Vision
 
-YAMLForge is designed to evolve into:
-
-* A universal CI/CD workflow generator
-* A DevOps automation platform
-* A GitHub automation assistant
-* A developer productivity tool
+ForgeFlow will evolve into a full DevOps automation platform for developers.
 
 ---
+
 
 # 🔥 Key Design Principles
 
