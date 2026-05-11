@@ -4,9 +4,9 @@
 
 ---
 
-# 🧠 What is YAMLForge?
+# 🧠 What is ForgeFlow?
 
-YAMLForge is a developer tool that helps developers generate CI/CD workflows without manually writing YAML files.
+ForgeFlow is a developer tool that helps developers generate CI/CD workflows without manually writing YAML files.
 
 Instead of learning GitHub Actions syntax, users can:
 
@@ -42,7 +42,7 @@ The goal of YAMLForge is to simplify DevOps workflow creation while remaining fl
 # 📁 Project Structure
 
 ```text
-yamlforge/
+forgeflow/
 ├── frontend/                 # Next.js frontend
 │   ├── app/
 │   ├── components/
@@ -72,7 +72,7 @@ yamlforge/
 
 ---
 
-# 🧱 How YAMLForge Works
+# 🧱 How ForgeFlow Works
 
 ```text
 User Selection

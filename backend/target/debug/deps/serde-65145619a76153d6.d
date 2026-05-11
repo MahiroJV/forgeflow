@@ -1,0 +1,14 @@
+/home/koktail/Documents/Projects/forgeflow/backend/target/debug/deps/serde-65145619a76153d6.d: /home/koktail/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/koktail/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/koktail/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/koktail/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/koktail/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/koktail/Documents/Projects/forgeflow/backend/target/debug/build/serde-b1ce695bf3bed2ad/out/private.rs
+
+/home/koktail/Documents/Projects/forgeflow/backend/target/debug/deps/libserde-65145619a76153d6.rlib: /home/koktail/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/koktail/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/koktail/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/koktail/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/koktail/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/koktail/Documents/Projects/forgeflow/backend/target/debug/build/serde-b1ce695bf3bed2ad/out/private.rs
+
+/home/koktail/Documents/Projects/forgeflow/backend/target/debug/deps/libserde-65145619a76153d6.rmeta: /home/koktail/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/koktail/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/koktail/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/koktail/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/koktail/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/koktail/Documents/Projects/forgeflow/backend/target/debug/build/serde-b1ce695bf3bed2ad/out/private.rs
+
+/home/koktail/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/home/koktail/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/home/koktail/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/home/koktail/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/home/koktail/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/home/koktail/Documents/Projects/forgeflow/backend/target/debug/build/serde-b1ce695bf3bed2ad/out/private.rs:
+
+# env-dep:OUT_DIR=/home/koktail/Documents/Projects/forgeflow/backend/target/debug/build/serde-b1ce695bf3bed2ad/out
